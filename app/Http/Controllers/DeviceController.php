@@ -339,12 +339,12 @@ class DeviceController extends Controller
   private function sendMail(){
 
     # Instantiate the client.
-    $mgClient = new Mailgun('key-c789c9c183847b7a6fe4dd0f413c5bc1');
-    $domain = "sandboxbefd2fa89a0443ef8ff60a76eed6c9da.mailgun.org";
+    $mgClient = new Mailgun('******');
+    $domain = "*******";
 
     # Make the call to the client.
     $result = $mgClient->sendMessage("$domain",
-              array('from'    => 'XELAS <postmaster@sandboxbefd2fa89a0443ef8ff60a76eed6c9da.mailgun.org>',
+              array('from'    => 'XELAS <*******>',
                     'to'      => 'Ahmad Hosseini <capstone2017team13@gmail.com>',
                     'subject' => 'Here\'s Your Report',
                     'attachment' => [
