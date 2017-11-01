@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="386px" height="131px" viewBox="0 0 386 131" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Final</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Final">
+            <path d="M363.5,94 L363.5,64.5" id="Line" stroke="#000000" stroke-width="13" stroke-linecap="square"></path>
+            <path d="M305,107 L363,107" id="Line" stroke="#000000" stroke-width="14" stroke-linecap="square"></path>
+            <path d="M303.5,65 L303.5,21" id="Line" stroke="#000000" stroke-width="13" stroke-linecap="square" transform="translate(303.500000, 43.000000) scale(-1, -1) translate(-303.500000, -43.000000) "></path>
+            <path d="M304,20 L362,20" id="Line" stroke="#000000" stroke-width="14" stroke-linecap="square" transform="translate(333.000000, 20.000000) scale(-1, -1) translate(-333.000000, -20.000000) "></path>
+            <g id="Group-2" transform="translate(9.000000, -37.000000)">
+                <text id="X" filter="url(#filter-2)" font-family="KohinoorBangla-Semibold, Kohinoor Bangla" font-size="144" font-weight="500" letter-spacing="0.0306382999" fill="#000000">
+                    <tspan x="0" y="151">X</tspan>
+                </text>
+                <text id="L" filter="url(#filter-4)" font-family="KohinoorBangla-Semibold, Kohinoor Bangla" font-size="144.100006" font-weight="500" letter-spacing="0.0306595787" fill="#000000">
+                    <tspan x="122" y="151">L</tspan>
+                </text>
+                <path d="M82.5,57.2 L123,57.2" id="Line" stroke="#000000" stroke-width="14" stroke-linecap="square"></path>
+                <path d="M55.5,100 L121,100" id="Line" stroke="#000000" stroke-width="14" stroke-linecap="square"></path>
+                <path d="M83,144 L123,144" id="Line" stroke="#000000" stroke-width="14" stroke-linecap="square"></path>
+                <g id="Group" transform="translate(195.000000, 50.000000)">
+                    <path d="M12,91 L42.9415993,8.81137683" id="Line" stroke="#000000" stroke-width="14" stroke-linecap="square"></path>
+                    <path d="M48,91 L78.9415993,8.81137683" id="Line" stroke="#000000" stroke-width="14" stroke-linecap="square" transform="translate(63.470800, 49.905688) scale(-1, 1) translate(-63.470800, -49.905688) "></path>
+                    <rect id="Rectangle-5" fill="#000000" x="38.5" y="0" width="14" height="8"></rect>
+                    <polygon id="Path-9" fill="#000000" points="16.9023134 97.6362411 15.6560773 100.972494 0.822176961 100.972494 3.18664885 94.2999878"></polygon>
+                    <polygon id="Path-9" fill="#000000" transform="translate(82.040068, 97.636241) scale(-1, 1) translate(-82.040068, -97.636241) " points="90.0801365 97.6362411 88.8339004 100.972494 74 100.972494 76.3644719 94.2999878"></polygon>
+                </g>
+            </g>
+            <polygon id="Path-10" fill="#000000" points="343 73.3787879 297 53.3787879 297 73.3787879"></polygon>
+            <polygon id="Path-10" fill="#000000" transform="translate(347.000000, 64.500000) scale(-1, -1) translate(-347.000000, -64.500000) " points="370 74.5 324 54.5 324 74.5"></polygon>
+        </g>
+    </g>
+</svg>
